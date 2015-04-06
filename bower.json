@@ -1,0 +1,8 @@
+{
+  "name": "bower-bootstrap-example",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mrako/bower-bootstrap-example",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
